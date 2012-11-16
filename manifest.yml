@@ -1,0 +1,10 @@
+---
+name : "ChinaApp"
+website :  "https//chinaapp.github.com/"
+git_url : "https://github.com/chinaapp/chinaapp.git"
+source_url : "https://github.com/chinaapp/chinaapp"
+description :  "常用软件和应用的中国版与国际版之间的对比和下载"
+author:
+  name : "Tuccuay"
+  email : "i@tuccuay.com"
+  website : "http://www.tuccuay.com/"
